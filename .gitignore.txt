@@ -1,0 +1,7 @@
+
+Front End devlopment/project1/myproject/node_modules/
+Back End development/project1/node_modules/
+Front End devlopment/project1/myproject/build/
+Back End development/project1/dist/
+Front End devlopment/project1/myproject/.env
+Back End development/project1/.env
